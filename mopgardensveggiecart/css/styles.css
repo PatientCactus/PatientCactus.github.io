@@ -11971,7 +11971,7 @@ header.masthead:before {
 }
 
 header.masthead .release-trailer {
-    width: 893px;
+    max-width: 893px;
     height: 543px;
 }
 
@@ -11985,7 +11985,7 @@ header.masthead .release-trailer iframe {
     height: 90%;
     margin: 0 auto;
     border-radius: 35px;
-    background: #FFF;
+    background: #000;
     padding: 35px;
 }
 
